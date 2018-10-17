@@ -1,0 +1,24 @@
+{
+  "name": "muneem-q",
+  "version": "1.0.0",
+  "description": "query parser for muneem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "muneem",
+    "qs",
+    "query",
+    "param"
+  ],
+  "author": "Amit Gupta (http://amitkumargupta.work)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-muneem/q.git"
+  },
+  "dependencies": {
+    "qs": "^6.5.2"
+  }
+}
